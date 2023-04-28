@@ -7,16 +7,16 @@ const Footer = () => {
       <nav>
         <h3>Contact Us</h3>
         <ul>
-          <li>Address: 123 Test Street</li>
+          <li>Address: ABC Maz Street</li>
           <li>Email: order@littlelemon.com</li>
-          <li>Phone: 032 329 5733</li>
+          <li>Phone: 0900 786 01</li>
         </ul>
       </nav>
       <nav>
         <h3>Opening times</h3>
         <ul>
-          <li>Monday - Friday: 9:00 - 22:00</li>
-          <li>Saturday - Sunday: 10:00 - 24:00</li>
+          <li>Monday - Friday: 9:00 - 20:00</li>
+          <li>Saturday - Sunday: 11:00 - 22:00</li>
         </ul>
       </nav>
     </footer>
